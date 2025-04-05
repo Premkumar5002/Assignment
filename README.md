@@ -1,11 +1,9 @@
 class Main {
     
   public static void main(String[] args) {
-
-    // binary number
+  
     long num = 110110111;
-
-    // call method by passing the binary number
+    
     int decimal = convertBinaryToDecimal(num);
 
     System.out.println("Binary to Decimal");
