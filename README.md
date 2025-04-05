@@ -10,6 +10,7 @@ public class Exercise19 {
         Scanner scan = new Scanner(System.in);
 
         // Prompt the user to input a decimal number
+        
         System.out.print("Input a Decimal Number: ");
         dec_num = scan.nextInt();
 
